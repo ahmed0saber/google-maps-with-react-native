@@ -29,7 +29,7 @@ export default function App() {
 						})
 					}}
 					query={{
-						key: "AIzaSyD7urNoiDjJY8X6FUo6qhBkQoFXrSoHOVU",
+						key: "Put your key here",
 						language: "en",
 						radius: 30000,
 						location: `${region.latitude}, ${region.longitude}`
